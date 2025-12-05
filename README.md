@@ -1,2 +1,2 @@
-# ev-techathon-6
-EV Hackathon Collab
+# ey-techathon-6
+EY Hackathon Collab
