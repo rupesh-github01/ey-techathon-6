@@ -1,0 +1,292 @@
+{
+  "29242990": {
+    "hs_desc": "Paracetamol API",
+    "drug_name": "Paracetamol",
+    "drug_aliases": ["Acetaminophen", "APAP", "Tylenol API"],
+    "category": "Analgesic",
+    "country_data": {
+      "India": {
+        "import_volume_mt": 5200,
+        "export_volume_mt": 1300,
+        "import_value_million_usd": 94.3,
+        "export_value_million_usd": 28.5,
+        "top_import_sources": [
+          {"country": "China", "percent": 72},
+          {"country": "USA", "percent": 15},
+          {"country": "Italy", "percent": 8},
+          {"country": "Others", "percent": 5}
+        ],
+        "top_export_destinations": [
+          {"country": "USA", "percent": 25},
+          {"country": "Nigeria", "percent": 18},
+          {"country": "UK", "percent": 12},
+          {"country": "Others", "percent": 45}
+        ],
+        "yearly_trend": {"2019": 4100, "2020": 4300, "2021": 4700, "2022": 5200, "2023": 5400}
+      }
+    }
+  },
+  "29163990": {
+    "hs_desc": "Ibuprofen API",
+    "drug_name": "Ibuprofen",
+    "drug_aliases": ["Advil API", "Motrin API", "NSAID"],
+    "category": "Anti-inflammatory",
+    "country_data": {
+      "India": {
+        "import_volume_mt": 900,
+        "export_volume_mt": 3500,
+        "import_value_million_usd": 28.4,
+        "export_value_million_usd": 112.0,
+        "top_import_sources": [
+          {"country": "Germany", "percent": 40},
+          {"country": "China", "percent": 30},
+          {"country": "India (domestic)", "percent": 20},
+          {"country": "Others", "percent": 10}
+        ],
+        "top_export_destinations": [
+          {"country": "USA", "percent": 35},
+          {"country": "Brazil", "percent": 20},
+          {"country": "Germany", "percent": 15},
+          {"country": "Others", "percent": 30}
+        ],
+        "yearly_trend": {"2019": 800, "2020": 850, "2021": 870, "2022": 900, "2023": 920}
+      }
+    }
+  },
+  "29333997": {
+    "hs_desc": "Metformin API",
+    "drug_name": "Metformin",
+    "drug_aliases": ["Glucophage API", "Biguanide"],
+    "category": "Antidiabetic",
+    "country_data": {
+      "India": {
+        "import_volume_mt": 50,
+        "export_volume_mt": 12000,
+        "import_value_million_usd": 1.2,
+        "export_value_million_usd": 285.0,
+        "top_import_sources": [
+          {"country": "China", "percent": 25},
+          {"country": "India (domestic)", "percent": 60},
+          {"country": "Others", "percent": 15}
+        ],
+        "top_export_destinations": [
+          {"country": "USA", "percent": 40},
+          {"country": "Brazil", "percent": 15},
+          {"country": "Mexico", "percent": 12},
+          {"country": "Others", "percent": 33}
+        ],
+        "yearly_trend": {"2019": 10000, "2020": 10500, "2021": 11000, "2022": 11500, "2023": 12000}
+      }
+    }
+  },
+  "29411010": {
+    "hs_desc": "Amoxicillin API",
+    "drug_name": "Amoxicillin",
+    "drug_aliases": ["Amoxil API", "Penicillin-type"],
+    "category": "Antibiotic",
+    "country_data": {
+      "India": {
+        "import_volume_mt": 300,
+        "export_volume_mt": 2000,
+        "import_value_million_usd": 18.0,
+        "export_value_million_usd": 120.0,
+        "top_import_sources": [
+          {"country": "China", "percent": 45},
+          {"country": "Germany", "percent": 20},
+          {"country": "India (domestic)", "percent": 25},
+          {"country": "Others", "percent": 10}
+        ],
+        "top_export_destinations": [
+          {"country": "Nigeria", "percent": 22},
+          {"country": "Kenya", "percent": 15},
+          {"country": "Brazil", "percent": 18},
+          {"country": "Others", "percent": 45}
+        ],
+        "yearly_trend": {"2019": 1800, "2020": 1850, "2021": 1900, "2022": 1950, "2023": 2000}
+      }
+    }
+  },
+  "29025000": {
+    "hs_desc": "Atorvastatin API",
+    "drug_name": "Atorvastatin",
+    "drug_aliases": ["Lipitor API", "Statin"],
+    "category": "Cholesterol-lowering",
+    "country_data": {
+      "India": {
+        "import_volume_mt": 20,
+        "export_volume_mt": 8000,
+        "import_value_million_usd": 0.6,
+        "export_value_million_usd": 240.0,
+        "top_import_sources": [
+          {"country": "India (domestic)", "percent": 70},
+          {"country": "Italy", "percent": 15},
+          {"country": "Others", "percent": 15}
+        ],
+        "top_export_destinations": [
+          {"country": "USA", "percent": 45},
+          {"country": "Europe", "percent": 25},
+          {"country": "Brazil", "percent": 12},
+          {"country": "Others", "percent": 18}
+        ],
+        "yearly_trend": {"2019": 7000, "2020": 7400, "2021": 7600, "2022": 7900, "2023": 8000}
+      }
+    }
+  },
+  "29349910": {
+    "hs_desc": "Ciprofloxacin API",
+    "drug_name": "Ciprofloxacin",
+    "drug_aliases": ["Cipro API", "Fluoroquinolone"],
+    "category": "Antibiotic",
+    "country_data": {
+      "India": {
+        "import_volume_mt": 120,
+        "export_volume_mt": 900,
+        "import_value_million_usd": 6.5,
+        "export_value_million_usd": 48.0,
+        "top_import_sources": [
+          {"country": "China", "percent": 50},
+          {"country": "India (domestic)", "percent": 30},
+          {"country": "Germany", "percent": 10},
+          {"country": "Others", "percent": 10}
+        ],
+        "top_export_destinations": [
+          {"country": "Africa", "percent": 35},
+          {"country": "Middle East", "percent": 25},
+          {"country": "South America", "percent": 20},
+          {"country": "Others", "percent": 20}
+        ],
+        "yearly_trend": {"2019": 800, "2020": 900, "2021": 1000, "2022": 1100, "2023": 1200}
+      }
+    }
+  },
+  "29349990": {
+    "hs_desc": "Omeprazole API",
+    "drug_name": "Omeprazole",
+    "drug_aliases": ["Prilosec API", "PPI", "Proton pump inhibitor"],
+    "category": "Gastrointestinal",
+    "country_data": {
+      "India": {
+        "import_volume_mt": 400,
+        "export_volume_mt": 3000,
+        "import_value_million_usd": 22.0,
+        "export_value_million_usd": 165.0,
+        "top_import_sources": [
+          {"country": "China", "percent": 35},
+          {"country": "India (domestic)", "percent": 50},
+          {"country": "Others", "percent": 15}
+        ],
+        "top_export_destinations": [
+          {"country": "USA", "percent": 30},
+          {"country": "Europe", "percent": 25},
+          {"country": "Latin America", "percent": 20},
+          {"country": "Others", "percent": 25}
+        ],
+        "yearly_trend": {"2019": 2500, "2020": 2600, "2021": 2700, "2022": 2900, "2023": 3000}
+      }
+    }
+  },
+  "29419090": {
+    "hs_desc": "Azithromycin API",
+    "drug_name": "Azithromycin",
+    "drug_aliases": ["Zithromax API", "Z-pack", "Macrolide"],
+    "category": "Antibiotic",
+    "country_data": {
+      "India": {
+        "import_volume_mt": 60,
+        "export_volume_mt": 2200,
+        "import_value_million_usd": 3.4,
+        "export_value_million_usd": 125.0,
+        "top_import_sources": [
+          {"country": "India (domestic)", "percent": 60},
+          {"country": "China", "percent": 25},
+          {"country": "Others", "percent": 15}
+        ],
+        "top_export_destinations": [
+          {"country": "USA", "percent": 35},
+          {"country": "Africa", "percent": 25},
+          {"country": "Middle East", "percent": 20},
+          {"country": "Others", "percent": 20}
+        ],
+        "yearly_trend": {"2019": 2000, "2020": 2050, "2021": 2100, "2022": 2150, "2023": 2200}
+      }
+    }
+  },
+  "30041000": {
+    "hs_desc": "Finished Pharmaceutical Formulations",
+    "drug_name": "Generic Tablets",
+    "drug_aliases": ["Finished dosage forms", "FDF", "Formulations"],
+    "category": "Finished Products",
+    "country_data": {
+      "India": {
+        "import_volume_mt": 150,
+        "export_volume_mt": 45000,
+        "import_value_million_usd": 12.0,
+        "export_value_million_usd": 8500.0,
+        "top_import_sources": [
+          {"country": "Germany", "percent": 30},
+          {"country": "USA", "percent": 25},
+          {"country": "Switzerland", "percent": 20},
+          {"country": "Others", "percent": 25}
+        ],
+        "top_export_destinations": [
+          {"country": "USA", "percent": 30},
+          {"country": "Brazil", "percent": 20},
+          {"country": "Africa", "percent": 25},
+          {"country": "Others", "percent": 25}
+        ],
+        "yearly_trend": {"2019": 40000, "2020": 41000, "2021": 42000, "2022": 44000, "2023": 45000}
+      }
+    }
+  },
+  "29419091": {
+    "hs_desc": "Doxycycline API",
+    "drug_name": "Doxycycline",
+    "drug_aliases": ["Vibramycin API", "Tetracycline-type"],
+    "category": "Antibiotic",
+    "country_data": {
+      "India": {
+        "import_volume_mt": 80,
+        "export_volume_mt": 1500,
+        "import_value_million_usd": 4.8,
+        "export_value_million_usd": 90.0,
+        "top_import_sources": [
+          {"country": "China", "percent": 55},
+          {"country": "India (domestic)", "percent": 35},
+          {"country": "Others", "percent": 10}
+        ],
+        "top_export_destinations": [
+          {"country": "Africa", "percent": 40},
+          {"country": "Southeast Asia", "percent": 25},
+          {"country": "Middle East", "percent": 20},
+          {"country": "Others", "percent": 15}
+        ],
+        "yearly_trend": {"2019": 1200, "2020": 1300, "2021": 1350, "2022": 1450, "2023": 1500}
+      }
+    }
+  },
+  "29362100": {
+    "hs_desc": "Vitamin C (Ascorbic Acid) API",
+    "drug_name": "Ascorbic Acid",
+    "drug_aliases": ["Vitamin C", "L-Ascorbic Acid"],
+    "category": "Vitamin",
+    "country_data": {
+      "India": {
+        "import_volume_mt": 8000,
+        "export_volume_mt": 500,
+        "import_value_million_usd": 32.0,
+        "export_value_million_usd": 2.0,
+        "top_import_sources": [
+          {"country": "China", "percent": 85},
+          {"country": "Europe", "percent": 10},
+          {"country": "Others", "percent": 5}
+        ],
+        "top_export_destinations": [
+          {"country": "Middle East", "percent": 40},
+          {"country": "Africa", "percent": 35},
+          {"country": "Others", "percent": 25}
+        ],
+        "yearly_trend": {"2019": 6500, "2020": 7000, "2021": 7500, "2022": 7800, "2023": 8000}
+      }
+    }
+  }
+}

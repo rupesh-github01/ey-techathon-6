@@ -1,0 +1,98 @@
+{
+  "oncology": {
+      "market_size_usd": "185 Billion",
+      "cagr_percent": 12.5,
+      "volume_units": "950 Million Doses",
+      "competitors": ["Roche", "Merck", "Bristol Myers Squibb", "AstraZeneca"],
+      "competition_level": "High",
+      "key_trend": "Shift towards CAR-T therapies and personalized medicine."
+  },
+  "diabetes": {
+      "market_size_usd": "90 Billion",
+      "cagr_percent": 6.1,
+      "volume_units": "2.1 Billion Units",
+      "competitors": ["Novo Nordisk", "Eli Lilly", "Sanofi"],
+      "competition_level": "Very High",
+      "key_trend": "Rapid adoption of GLP-1 agonists (e.g., Ozempic, Mounjaro)."
+  },
+  "respiratory": {
+      "market_size_usd": "45 Billion",
+      "cagr_percent": 3.4,
+      "volume_units": "1.8 Billion Inhalers",
+      "competitors": ["GSK", "AstraZeneca", "Boehringer Ingelheim"],
+      "competition_level": "Moderate",
+      "key_trend": "Generic erosion in asthma; growth in COPD biologics."
+  },
+  "immunology": {
+      "market_size_usd": "110 Billion",
+      "cagr_percent": 9.8,
+      "volume_units": "600 Million Doses",
+      "competitors": ["AbbVie", "J&J", "Amgen"],
+      "competition_level": "High",
+      "key_trend": "Biosimilar competition entering for Humira; shift to JAK inhibitors."
+  },
+  "cardiovascular": {
+      "market_size_usd": "60 Billion",
+      "cagr_percent": 2.5,
+      "volume_units": "3.5 Billion Tablets",
+      "competitors": ["Pfizer", "Bayer", "Novartis"],
+      "competition_level": "Saturated",
+      "key_trend": "High generic penetration; growth in heart failure novel therapies."
+  },
+  "neurology": {
+      "market_size_usd": "55 Billion",
+      "cagr_percent": 8.2,
+      "volume_units": "400 Million Doses",
+      "competitors": ["Biogen", "Roche", "Eisai"],
+      "competition_level": "Moderate",
+      "key_trend": "Emerging treatments for Alzheimer's showing promise but high cost."
+  },
+  "rare_diseases": {
+      "market_size_usd": "25 Billion",
+      "cagr_percent": 14.0,
+      "volume_units": "5 Million Doses",
+      "competitors": ["Takeda", "Sanofi Genzyme", "Vertex"],
+      "competition_level": "Low",
+      "key_trend": "High unmet need; heavily incentivized by Orphan Drug designations."
+  },
+  "infectious_diseases": {
+      "market_size_usd": "70 Billion",
+      "cagr_percent": 5.3,
+      "volume_units": "4.2 Billion Units",
+      "competitors": ["Gilead", "Pfizer", "GSK", "Merck"],
+      "competition_level": "Moderate",
+      "key_trend": "Post-pandemic antiviral development; AMR becoming critical focus."
+  },
+  "dermatology": {
+      "market_size_usd": "32 Billion",
+      "cagr_percent": 7.5,
+      "volume_units": "850 Million Units",
+      "competitors": ["AbbVie", "Leo Pharma", "Galderma", "Bausch Health"],
+      "competition_level": "Moderate",
+      "key_trend": "Biologics gaining share in psoriasis and atopic dermatitis."
+  },
+  "ophthalmology": {
+      "market_size_usd": "38 Billion",
+      "cagr_percent": 6.8,
+      "volume_units": "620 Million Doses",
+      "competitors": ["Regeneron", "Roche", "Bayer", "Novartis"],
+      "competition_level": "High",
+      "key_trend": "Anti-VEGF dominance; gene therapy emerging for inherited conditions."
+  },
+  "gastroenterology": {
+      "market_size_usd": "42 Billion",
+      "cagr_percent": 4.9,
+      "volume_units": "1.5 Billion Units",
+      "competitors": ["AbbVie", "Takeda", "J&J", "Pfizer"],
+      "competition_level": "Moderate",
+      "key_trend": "IBD biologics expanding; JAK inhibitors gaining traction."
+  },
+  "womens_health": {
+      "market_size_usd": "28 Billion",
+      "cagr_percent": 5.5,
+      "volume_units": "900 Million Units",
+      "competitors": ["Bayer", "Organon", "TherapeuticsMD", "AbbVie"],
+      "competition_level": "Moderate",
+      "key_trend": "Focus on menopause, fertility treatments, and contraception innovation."
+  }
+}

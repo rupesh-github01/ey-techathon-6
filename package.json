@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@ai-sdk/openai": "^2.0.80",
+    "ai": "^5.0.108"
+  }
+}

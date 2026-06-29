@@ -1,0 +1,152 @@
+[
+  {
+    "trial_id": "NCT012345",
+    "drug": "CardioFix",
+    "phase": "Phase 3",
+    "status": "Recruiting",
+    "participants": 500,
+    "sponsor": "CardioHealth Inc.",
+    "indication": "Heart Failure",
+    "country": "United States"
+  },
+  {
+    "trial_id": "NCT067890",
+    "drug": "DermaCure",
+    "phase": "Phase 1",
+    "status": "Completed",
+    "participants": 50,
+    "sponsor": "DermaPharma Ltd.",
+    "indication": "Psoriasis",
+    "country": "Germany"
+  },
+  {
+    "trial_id": "NCT000111",
+    "drug": "NewOncoDrug",
+    "phase": "Phase 2",
+    "status": "Terminated",
+    "participants": 120,
+    "sponsor": "OncoResearch Corp.",
+    "indication": "Lung Cancer",
+    "country": "United States"
+  },
+  {
+    "trial_id": "NCT100001",
+    "drug": "ImmunoX",
+    "phase": "Phase 1",
+    "status": "Recruiting",
+    "participants": 60,
+    "sponsor": "ImmunoGen Inc.",
+    "indication": "Rheumatoid Arthritis",
+    "country": "United Kingdom"
+  },
+  {
+    "trial_id": "NCT100002",
+    "drug": "NeuroHeal",
+    "phase": "Phase 2",
+    "status": "Active",
+    "participants": 300,
+    "sponsor": "NeuroPharma Inc.",
+    "indication": "Alzheimer's Disease",
+    "country": "United States"
+  },
+  {
+    "trial_id": "NCT100003",
+    "drug": "CardioFix",
+    "phase": "Phase 4",
+    "status": "Active",
+    "participants": 5000,
+    "sponsor": "CardioHealth Inc.",
+    "indication": "Hypertension",
+    "country": "United States"
+  },
+  {
+    "trial_id": "NCT100004",
+    "drug": "Dermalux",
+    "phase": "Phase 2",
+    "status": "Recruiting",
+    "participants": 200,
+    "sponsor": "SkinCare Pharma",
+    "indication": "Atopic Dermatitis",
+    "country": "Japan"
+  },
+  {
+    "trial_id": "NCT100005",
+    "drug": "GlycoStat",
+    "phase": "Phase 3",
+    "status": "Completed",
+    "participants": 1500,
+    "sponsor": "DiabetesCure Pharma",
+    "indication": "Type 2 Diabetes",
+    "country": "India"
+  },
+  {
+    "trial_id": "NCT100006",
+    "drug": "NewOncoDrug",
+    "phase": "Phase 1",
+    "status": "Recruiting",
+    "participants": 80,
+    "sponsor": "OncoResearch Corp.",
+    "indication": "Breast Cancer",
+    "country": "France"
+  },
+  {
+    "trial_id": "NCT100007",
+    "drug": "ViralShield",
+    "phase": "Phase 3",
+    "status": "Suspended",
+    "participants": 400,
+    "sponsor": "AntiViral Labs",
+    "indication": "Hepatitis B",
+    "country": "China"
+  },
+  {
+    "trial_id": "NCT100008",
+    "drug": "RespiClear",
+    "phase": "Phase 2",
+    "status": "Recruiting",
+    "participants": 250,
+    "sponsor": "PulmoTech Inc.",
+    "indication": "COPD",
+    "country": "United States"
+  },
+  {
+    "trial_id": "NCT100009",
+    "drug": "ArthroRelief",
+    "phase": "Phase 3",
+    "status": "Active",
+    "participants": 800,
+    "sponsor": "JointCare Pharma",
+    "indication": "Osteoarthritis",
+    "country": "Germany"
+  },
+  {
+    "trial_id": "NCT100010",
+    "drug": "OncoTarget",
+    "phase": "Phase 1",
+    "status": "Recruiting",
+    "participants": 45,
+    "sponsor": "TargetedOncology Ltd.",
+    "indication": "Pancreatic Cancer",
+    "country": "United States"
+  },
+  {
+    "trial_id": "NCT100011",
+    "drug": "MetaboSync",
+    "phase": "Phase 2",
+    "status": "Active",
+    "participants": 180,
+    "sponsor": "MetabolicHealth Corp.",
+    "indication": "Obesity",
+    "country": "Brazil"
+  },
+  {
+    "trial_id": "NCT100012",
+    "drug": "PsychBalance",
+    "phase": "Phase 3",
+    "status": "Recruiting",
+    "participants": 600,
+    "sponsor": "MentalWellness Inc.",
+    "indication": "Major Depression",
+    "country": "Canada"
+  }
+]
